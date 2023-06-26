@@ -125,7 +125,7 @@
             },
             "url": "https://codeload.github.com/siaken/Megawin-MG32x02z-TH224A-1.0.0/zip/refs/heads/main",
             "archiveFileName": "main.zip",
-            "checksum": "SHA-256:3a7d3b8f5af9b201cfd2846c7007cda7e52fa8eeee3665db16d9a0d7a999ab73",
+            "checksum": "SHA-256:0ef8933f0539ca71cbe1a2d0ba0f8229cc41db989e68feaf1649d5e5ab6a77a6",
             "size": "7944275",
             "boards": [
                 { "name": "Megawin TH244A" },
