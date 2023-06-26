@@ -126,7 +126,7 @@
             "url": "https://codeload.github.com/siaken/Megawin-MG32x02z-TH224A-1.0.0/zip/refs/heads/main",
             "archiveFileName": "main.zip",
             "checksum": "SHA-256:0ef8933f0539ca71cbe1a2d0ba0f8229cc41db989e68feaf1649d5e5ab6a77a6",
-            "size": "7944275",
+            "size": "7944239",
             "boards": [
                 { "name": "Megawin TH244A" },
                 { "name": "Megawin MG32F02U128_LQFP64" },
